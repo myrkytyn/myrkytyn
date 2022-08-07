@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @myrkytyn or Maks Mykytyn
  
-- 👀 I’m interested in system administration, networks, engineering, programming, complex tasks. 
+- 👀 I’m DevOps engineer and I'm interested in Linux, networks, engineering and programming. 
 - 👀 My hobbies are engineering and extreme sports: rock-climbing, kayaking, caving, backcountry skiing :) 
 - 🌱 I’m currently working in [Global Logic](https://www.globallogic.com/)
-- 🌱 Also I'm practicing on my pet-project (details will be soon)
+- 🌱 Also I'm practicing on my pet-project
 - 📫 How to reach me [Telegram](t.me/myrkytyn)
 
 My skills:
