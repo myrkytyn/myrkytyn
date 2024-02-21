@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @myrkytyn or Maks Mykytyn
-- I am Ukrainian 🇺🇦, enterpreneur, DevOps Engineer at VITech
+- I am Ukrainian 🇺🇦, entrepreneur, DevOps Engineer at VITech
 - 👀 I'm interested in Linux, networks, engineering and programming
-- 😡 I hate windows and toxic people (sounds a little bit toxic)
+- 😡 I hate Windows and toxic people (sounds a little bit toxic)
 - 👀 My hobbies are engineering and extreme sports: rock-climbing, caving, backcountry skiing
-- 🌱 I’m currently working as DevOps engineer at [VITech]()
-- 🌱 Also I'm practicing on my pet-project in my HomeLab
+- 🌱 I’m currently working as a DevOps engineer at [VITech]()
+- 🌱 Also I'm practicing my pet project in my HomeLab
 - 📫 You can reach me [Telegram](https://t.me/myrkytyn) or [LinkedIn](https://www.linkedin.com/in/myrkytyn/)
   
 [![Maksym Mykytyn profile views](https://u8views.com/api/v1/github/profiles/42769358/views/day-week-month-total-count.svg)](https://u8views.com/github/myrkytyn)
@@ -13,18 +13,17 @@ My skills:
 
 ```bash
 Clouds:
-AWS (EC2, EKS, ELB, Lambda, CloudFront, Route53),
-Azure, Hetzner Cloud
+AWS, Hetzner Cloud, Azure, Digital Ocean, Linode
 
 Infrastructure as Code:
-Terraform
+Terraform, Terragrant, Cloudformation
 
 Containers:
-Docker, Kubernetes
+Docker, Compose, Kubernetes
 
-Programming languages:
-Python, Bash 
+Programming and scripting languages:
+Python, Bash, Javascript
 
 Pipelines:
-GitLab CI, Jenkins, Azure Devops
+GitHub Actions, GitLab CI, Jenkins, Azure DevOps
 ```
