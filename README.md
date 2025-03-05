@@ -4,8 +4,8 @@
 - 😡 I hate Windows and toxic people (sounds a little bit toxic)
 - 👀 My hobbies are engineering and extreme sports: rock-climbing, caving, backcountry skiing
 - 🌱 I’m currently working as a DevOps engineer at [VITech]()
-- 🌱 Also I'm practicing my pet project in my HomeLab
-- 📫 You can reach me [Telegram](https://t.me/myrkytyn) or [LinkedIn](https://www.linkedin.com/in/myrkytyn/)
+- 🌱 Also, I'm practicing my pet project in my HomeLab
+- 📫 You can reach me in [LinkedIn](https://www.linkedin.com/in/myrkytyn/)
   
 [![Maksym Mykytyn profile views](https://u8views.com/api/v1/github/profiles/42769358/views/day-week-month-total-count.svg)](https://u8views.com/github/myrkytyn)
 
