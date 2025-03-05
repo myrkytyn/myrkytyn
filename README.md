@@ -9,21 +9,21 @@
   
 [![Maksym Mykytyn profile views](https://u8views.com/api/v1/github/profiles/42769358/views/day-week-month-total-count.svg)](https://u8views.com/github/myrkytyn)
 
-My skills:
+My technology stack:
 
 ```bash
 Clouds:
-AWS, Hetzner Cloud, Azure, Digital Ocean, Linode
+AWS, Hetzner Cloud
 
-Infrastructure as Code:
-Terraform, Terragrant, Cloudformation
+IaC and configuration management:
+Terraform, Ansible
 
 Containers:
 Docker, Compose, Kubernetes
 
 Programming and scripting languages:
-Python, Bash, Javascript
+Python, Typescript, Bash, Go
 
-Pipelines:
-GitHub Actions, GitLab CI, Jenkins, Azure DevOps
+Automations:
+GitHub Actions, GitLab CI
 ```
