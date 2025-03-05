@@ -1,16 +1,17 @@
-- 👋 Hi, I’m @myrkytyn or Maks Mykytyn
-- I am Ukrainian 🇺🇦, entrepreneur, DevOps Engineer at VITech
-- 👀 I'm interested in Linux, networks, engineering and programming
-- 😡 I hate Windows and toxic people (sounds a little bit toxic)
-- 👀 My hobbies are engineering and extreme sports: rock-climbing, caving, backcountry skiing
-- 🌱 I’m currently working as a DevOps engineer at [VITech]()
-- 🌱 Also, I'm practicing my pet project in my HomeLab
-- 📫 You can reach me in [LinkedIn](https://www.linkedin.com/in/myrkytyn/)
-  
-[![Maksym Mykytyn profile views](https://u8views.com/api/v1/github/profiles/42769358/views/day-week-month-total-count.svg)](https://u8views.com/github/myrkytyn)
+# Hi, 👋 my name is Maks.
+## 🇺🇦 Support Ukrainian Army - [https://savelife.in.ua/donate/](https://savelife.in.ua/donate/)
 
-My technology stack:
+## About me :technologist:
+I'm a software engineer with deep knowledge of infrastructure. I believe that DevOps is a mindset we all should follow, not a job title. 
 
+I participate in open-source projects and live by the philosophy of "everything as code." I approach business needs with product thinking and automate wherever possible to eliminate routine tasks.
+
+I have a homelab built with Mikrotik network devices and mini PCs. There I continuously hone my skills by hosting pet projects, smarthome tools, and automations.
+
+I'm currently working as a DevOps engineer at [VITech](https://vitechteam.com/vacancies).
+
+
+## My technology stack:
 ```bash
 Clouds:
 AWS, Hetzner Cloud
@@ -24,6 +25,18 @@ Docker, Compose, Kubernetes
 Programming and scripting languages:
 Python, Typescript, Bash, Go
 
+Frameworks:
+FastAPI, NextJS
+
 Automations:
 GitHub Actions, GitLab CI
 ```
+<br>
+
+I can help you: start new products, select appropriate technology stacks, create efficient processes, identify and resolve bottlenecks
+<br>
+💬 Are you looking to collaborate? Reach me out on [Linkedin](https://www.linkedin.com/in/myrkytyn/)!
+
+<br><br>
+
+[![Maksym Mykytyn profile views](https://u8views.com/api/v1/github/profiles/42769358/views/day-week-month-total-count.svg)](https://u8views.com/github/myrkytyn)
