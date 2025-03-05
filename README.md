@@ -4,9 +4,9 @@
 ## About me :technologist:
 I'm a software engineer with deep knowledge of infrastructure. I believe that DevOps is a mindset we all should follow, not a job title. 
 
-I participate in open-source projects and live by the philosophy of "everything as code." I approach business needs with product thinking and automate wherever possible to eliminate routine tasks.
+I participate in open-source projects and live by the philosophy of "everything as code". I approach business needs with product thinking and automate wherever possible to eliminate routine tasks.
 
-I have a homelab built with Mikrotik network devices and mini PCs. There I continuously hone my skills by hosting pet projects, smarthome tools, and automations.
+I have a homelab built with Mikrotik network devices and mini PCs. There, I continuously hone my skills by hosting pet projects, smarthome tools, and automations.
 
 I'm currently working as a DevOps engineer at [VITech](https://vitechteam.com/vacancies).
 
